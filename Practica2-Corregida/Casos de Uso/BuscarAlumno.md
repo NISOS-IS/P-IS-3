@@ -21,5 +21,5 @@
 
 **Flujo alternativo:**
 
-2.a. Si no existe el alumno, el sistema muestra un mensaje de error.
+2.a. Si no existe el alumno, el sistema muestra un mensaje de error.  
 2.b. Si se introduce el apellido y existen varios alumnos con el mismo, el sistema recoje los datos de cada uno de los alumnos con ese apellido.

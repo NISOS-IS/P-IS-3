@@ -42,7 +42,7 @@
 
 **Requisitos no funcionales:**
 
-* Programación en C++.
+* Programación en C++
 * Documentación en lenguaje Markdown
 * Uso del sistema de control de versiones Git y la plataforma GitHub
 * Fichero binario de copia de seguridad

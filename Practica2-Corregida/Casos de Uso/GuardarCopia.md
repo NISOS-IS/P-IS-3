@@ -20,5 +20,5 @@
 
 **Flujo alternativo:**
 
-2.a. Si se produce un fallo, el sistema muestra un mensaje de error.
+2.a. Si se produce un fallo, el sistema muestra un mensaje de error.  
 2.b. Si al guardar la copia ya existe un fichero con ese nombre, este se sobreescribe.

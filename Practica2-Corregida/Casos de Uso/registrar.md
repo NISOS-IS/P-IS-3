@@ -18,6 +18,6 @@
 
 **Flujos alternativos:**
 
-2.a. Muesta un mensaje de error si los campos están vacíos o son incorrectos.
-3.a. Si el profesor ya existe, el sistema pregunta si desea iniciar la sesión.   
+2.a. Muesta un mensaje de error si los campos están vacíos o son incorrectos.  
+3.a. Si el profesor ya existe, el sistema pregunta si desea iniciar la sesión.  
 4.b. Muestra un mensaje de error si el fichero no se ha guardado de forma correcta.

@@ -23,5 +23,5 @@
 
 **Flujo alternativo:**
 
-2.a. Si no existe el alumno, el sistema muestra un mensaje de error.
+2.a. Si no existe el alumno, el sistema muestra un mensaje de error.  
 2.b. Si existen dos o más alumnos con el mismo apellido, el sistema muestra una lista de esos alumnos y pregunta cual de ellos se quiere borrar.
