@@ -1,5 +1,5 @@
 ### Login Profesor
-**ID:** 00.   
+**ID:** 010   
 **Breve Descripción:** El profesor inicia sesión en el sistema.   
 
 **Actor principal:** Profesor.   

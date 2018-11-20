@@ -1,5 +1,5 @@
 ### Registrar Profesor
-**ID:** 00.   
+**ID:** 009   
 **Breve Descripción:** El profesor se registra en el sistema.   
 
 **Actor principal:** Profesor.   
