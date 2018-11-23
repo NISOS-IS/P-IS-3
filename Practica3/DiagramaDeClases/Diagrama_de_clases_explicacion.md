@@ -1,4 +1,4 @@
-La clase ***Persona*** es la base de la que tanto ***Profesor*** como ***Alumno*** heredan atributos comunes. Para el tratamiento de información se crean los métodos modificadores y observadores.
+La clase **Persona** es la base de la que tanto **Profesor** como **Alumno** heredan atributos comunes. Para el tratamiento de información se crean los métodos modificadores y observadores.
 
 A su vez la clase **Profesor** tiene el atributo ***rol*** para definir si es *coordinador* o *ayudante*, los métodos getter y setter y los métodos registrarProfesor, login (para iniciar sesión), cargarCopia y guardarCopia (datos de los alumnos).
 
