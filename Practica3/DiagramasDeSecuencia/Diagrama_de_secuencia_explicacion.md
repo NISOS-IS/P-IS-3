@@ -1,7 +1,7 @@
 ## Buscar Alumno  
 #### **Caso de uso:** 001
 
-El actor *Profesor* quiere buscar un alumno en la agenda. *Sistema* le pedirá que indique el criterio de búsqueda, que puede ser por DNI, Apellido o Equipo. Una vez elegido dicho criterio, el Sistema realizará una consulta a *Agenda* y esta devolverá la información del alumno buscado o alumnos buscados. En caso de no existir ninguno que coincida se emitirá un mensaje de error.
+El actor *Profesor* quiere buscar un alumno en la agenda. *Sistema* le pedirá que indique el criterio de búsqueda, que puede ser por DNI, Apellido o Equipo. Una vez elegido dicho criterio, el *Sistema* realizará una consulta a *Agenda* y esta devolverá la información del alumno buscado o alumnos buscados. En caso de no existir ninguno que coincida se emitirá un mensaje de error.
 
 ## **Insertar Alumno**   
 #### **Caso de uso:** 002
